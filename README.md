@@ -1,2 +1,5 @@
-# osa0
-Osan 0 repositorio
+Osa 0
+Osa 1
+Osa 2
+Osa 3
+Osa 4
