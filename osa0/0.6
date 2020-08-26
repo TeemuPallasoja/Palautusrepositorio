@@ -1,0 +1,15 @@
+title Uusi muistiinpano
+
+note over Selain:
+Tapahtumankäsittelijä lisää muistiinpanon
+listalle ja renderöi listan sisällön sivulle
+end note
+
+note over Selain:
+Selain lähettää palvelimelle HTTP POST-pyynnön,
+joka sisältää tallennetun muistiinpanon
+end note
+
+Selain->Palvelin: HTTP POST https://fullstack-exampleapp.herokuapp.com/new_note_spa
+note over Palvelin: Palvelin vastaa, että muistiinpano luotu
+Palvelin->Selain: 201 Created
