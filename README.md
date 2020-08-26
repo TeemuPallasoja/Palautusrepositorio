@@ -6,8 +6,6 @@ Osa0
  0.5: Single page app  
  0.6: Uusi muistiinpano
 Osa1  
- Tehtävä1  
- Tehtävä2  
 Osa2  
 Osa3  
 ```
