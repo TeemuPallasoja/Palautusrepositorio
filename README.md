@@ -9,6 +9,7 @@ Osa1
  Kurssitiedot  
   1.1  
   1.2  
+  1.3  
 Osa2  
 Osa3  
 ```
