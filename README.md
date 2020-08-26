@@ -2,7 +2,7 @@
 
 ```
 Osa0  
- 0.4
+ 0.4: Uusi muistiinpano
 Osa1  
  Tehtävä1  
  Tehtävä2  
